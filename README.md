@@ -1,1 +1,0 @@
-# Program-to-find-prime-number-or-not-in-C-
